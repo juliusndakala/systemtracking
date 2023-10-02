@@ -4,7 +4,7 @@ import './Navbar.css'; // Import your CSS file
 function Navbar() {
   return (
     <nav className="navbar">
-      <div className="navbar-brand">BORAQS FILING</div>
+      <div className="navbar-brand">BORAQS FILING SYSTEM</div>
       <ul className="navbar-nav">
         <li className="nav-item">
           <a href="#home" className="nav-link">Home</a>
